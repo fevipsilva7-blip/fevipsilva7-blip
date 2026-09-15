@@ -44,20 +44,20 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 <div align="center">
 
 ### 🧠 Linguagens
-<img src="https://skillicons.dev/icons?i=js,python,&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=js,python,ts&theme=dark" /><br><br>
 
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,html,css&theme=dark" /><br><br>
 
 ### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" /><br><br>
 
 ### 🗄️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" /><br><br>
 
 ### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,nginx&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=githubactions,nginx&theme=dark" /><br>
 
 </div>
 
@@ -67,7 +67,7 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,notion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,&theme=dark" />
 
 </div>
 
