@@ -44,7 +44,6 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 <div align="center">
 
 ### 🧠 Linguagens
-<img src="https://skillicons.dev/icons?i=js,python,java,go&theme=dark" /><br><br>
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=dark" /><br><br>
