@@ -32,7 +32,7 @@ localização: Brasil
 Ocupação: Full Stack Developer
 Idiomas: Português 
 Missão: Transformar café em código e ideias em soluções inteligentes.
-Modo: [ Debug: OFF ] [ Criatividade: MAX ] [ Café: ██████████ 100% ]
+
 ```
 
 <br clear="right"/>
@@ -44,7 +44,7 @@ Modo: [ Debug: OFF ] [ Criatividade: MAX ] [ Café: █████████�
 <div align="center">
 
 ### 🧠 Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=js,python,java,go&theme=dark" /><br><br>
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=dark" /><br><br>
@@ -66,7 +66,7 @@ Modo: [ Debug: OFF ] [ Criatividade: MAX ] [ Café: █████████�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux,vim,notion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vim,notion&theme=dark" />
 
 </div>
 
