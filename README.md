@@ -83,7 +83,7 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 ### 📓 Field Notes
 ```
-> status: em produção
+> status: concluido
 > stack: HTML + CSS + JavaScript
 ```
 Lista de tarefas com visual de caderno de campo, filtros por status e dados salvos automaticamente no navegador.
@@ -95,7 +95,7 @@ Lista de tarefas com visual de caderno de campo, filtros por status e dados salv
 
 ### 💼 Portfólio
 ```
-> status: em produção
+> status: concluido
 > stack: HTML + CSS + JavaScript
 ```
 Site pessoal com apresentação, habilidades, projetos e contato — hospedado via GitHub Pages.
@@ -107,7 +107,7 @@ Site pessoal com apresentação, habilidades, projetos e contato — hospedado v
 
 ### 🕹️ Memory Arcade
 ```
-> status: em produção
+> status: concluido 
 > stack: HTML + CSS + JavaScript
 ```
 Jogo da memória com cronômetro, contador de jogadas e animação de virada de carta em 3D.
@@ -127,15 +127,13 @@ Jogo da memória com cronômetro, contador de jogadas e animação de virada de 
 ```bash
 felipe@dev:~$ ./check_goals.sh --status
 
-[✓] Aprendendo........... Arquitetura de Microsserviços
-[✓] Estudando............ Inteligência Artificial & LLMs
-[  ] Construindo.......... SaaS open-source
-[✓] Colaborando........... Projetos Open Source
-[  ] Explorando........... Web3 & Blockchain
-[✓] Aperfeiçoando......... System Design
+[✓] Aprendendo........... Banco de Dados 
+[✓] Estudando............ Pyton 
+[  ] Construindo.......... Um projeto relevante 
+[  ] Explorando........... IA
+[✓] Aperfeiçoando......... CSS
 
-> Loading next challenge... ████████████████░░░░ 80%
-> Meta 2026: Contribuir para 10+ projetos open-source relevantes
+> Meta 2026: Ter um projeto relevante 
 ```
 
 ---
