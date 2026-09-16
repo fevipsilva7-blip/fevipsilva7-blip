@@ -114,6 +114,15 @@ Jogo da memória com cronômetro, contador de jogadas e animação de virada de 
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/memory-game)
 
+### 🗂️ Sistema de Cadastro de Clientes
+```
+> status: em produção
+> stack: Node.js + Express + SQLite
+```
+Aplicação full stack com CRUD completo, API REST e banco de dados SQLite para gerenciamento de clientes.
+
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/gest-o-clientes)
+
 </td>
 </tr>
 </table>
