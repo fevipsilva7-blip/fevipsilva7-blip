@@ -79,7 +79,7 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 ### 📓 Field Notes
 ```
-> status: em produção
+> status: concluido
 > stack: HTML + CSS + JavaScript
 ```
 Lista de tarefas com visual de caderno de campo, filtros por status e dados salvos automaticamente no navegador.
@@ -88,7 +88,7 @@ Lista de tarefas com visual de caderno de campo, filtros por status e dados salv
 
 ### 💼 Portfólio
 ```
-> status: em produção
+> status: concluido
 > stack: HTML + CSS + JavaScript
 ```
 Site pessoal com apresentação, habilidades, projetos e contato — hospedado via GitHub Pages.
@@ -97,7 +97,7 @@ Site pessoal com apresentação, habilidades, projetos e contato — hospedado v
 
 ### 🕹️ Memory Arcade
 ```
-> status: em produção
+> status: concluio
 > stack: HTML + CSS + JavaScript
 ```
 Jogo da memória com cronômetro, contador de jogadas e animação de virada de carta em 3D.
@@ -106,7 +106,7 @@ Jogo da memória com cronômetro, contador de jogadas e animação de virada de 
 
 ### 🗂️ Sistema de Cadastro de Clientes
 ```
-> status: em produção
+> status: fazendo melhorias
 > stack: Node.js + Express + SQLite
 ```
 Aplicação full stack com CRUD completo, API REST e banco de dados SQLite para gerenciamento de clientes.
