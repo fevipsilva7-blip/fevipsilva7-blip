@@ -77,37 +77,27 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%">
-
 ### 📓 Field Notes
 ```
-> status: concluido
+> status: em produção
 > stack: HTML + CSS + JavaScript
 ```
 Lista de tarefas com visual de caderno de campo, filtros por status e dados salvos automaticamente no navegador.
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/todo-list)
 
-</td>
-<td width="33%">
-
 ### 💼 Portfólio
 ```
-> status: concluido
+> status: em produção
 > stack: HTML + CSS + JavaScript
 ```
 Site pessoal com apresentação, habilidades, projetos e contato — hospedado via GitHub Pages.
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/portfolio-site)
 
-</td>
-<td width="33%">
-
 ### 🕹️ Memory Arcade
 ```
-> status: concluido 
+> status: em produção
 > stack: HTML + CSS + JavaScript
 ```
 Jogo da memória com cronômetro, contador de jogadas e animação de virada de carta em 3D.
@@ -123,9 +113,7 @@ Aplicação full stack com CRUD completo, API REST e banco de dados SQLite para 
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/gest-o-clientes)
 
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
