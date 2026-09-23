@@ -29,7 +29,7 @@
 ```yaml
 Nome: Felipe
 localização: Brasil
-Ocupação: Desenvolvedor de Sistema 
+Ocupação: Desenvolvedor de Sistemas
 Idiomas: Português 
 Missão: Transformar café em código e ideias em soluções inteligentes.
 
