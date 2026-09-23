@@ -29,7 +29,7 @@
 ```yaml
 Nome: Felipe
 localização: Brasil
-Ocupação: Full Stack Developer
+Ocupação: Desenvolvedor de Sistema 
 Idiomas: Português 
 Missão: Transformar café em código e ideias em soluções inteligentes.
 
