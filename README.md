@@ -77,6 +77,26 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 <div align="center">
 
+### 🎬 Movie Explorer
+```
+> status: concluido
+> stack: React + Vite + TMDB API
+```
+App que consome a API pública do TMDB para buscar filmes em alta e por título, com sinopse, gêneros, duração e nota.
+
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/movie-explorer)
+[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://movie-explorer2-seven.vercel.app/)
+
+### 📊 Pulse — Dashboard
+```
+> status: melhorando ele 
+> stack: React + Vite + Recharts
+```
+Painel administrativo responsivo com KPIs, gráficos de linha/barra/pizza, tabela de pedidos e tema claro/escuro.
+
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/react-dashboard)
+[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://react-dashboard2-tau.vercel.app/)
+
 ### 📓 Field Notes
 ```
 > status: concluido
