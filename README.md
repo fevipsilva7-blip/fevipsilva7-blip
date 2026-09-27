@@ -193,7 +193,7 @@ felipe@dev:~$ ./check_goals.sh --status
 
 <img src="https://raw.githubusercontent.com/fevipsilva7-blip/fevipsilva7-blip/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚡ Requer configurar a GitHub Action — veja instruções na mensagem abaixo</sub>
+
 
 </div>
 
