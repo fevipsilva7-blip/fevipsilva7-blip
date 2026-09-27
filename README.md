@@ -117,7 +117,7 @@ Site pessoal com apresentação, habilidades, projetos e contato — hospedado v
 
 ### 🕹️ Memory Arcade
 ```
-> status: concluio
+> status: concluido
 > stack: HTML + CSS + JavaScript
 ```
 Jogo da memória com cronômetro, contador de jogadas e animação de virada de carta em 3D.
