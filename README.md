@@ -145,7 +145,7 @@ Aplicação full stack com CRUD completo, API REST e banco de dados SQLite para 
 felipe@dev:~$ ./check_goals.sh --status
 
 [✓] Aprendendo........... Banco de Dados 
-[✓] Estudando............ Pyton 
+[✓] Estudando............ Python
 [  ] Construindo.......... Um projeto relevante 
 [  ] Explorando........... IA
 [✓] Aperfeiçoando......... CSS
