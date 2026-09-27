@@ -150,7 +150,7 @@ felipe@dev:~$ ./check_goals.sh --status
 [  ] Explorando........... IA
 [✓] Aperfeiçoando......... CSS
 
-> Meta 2026: Ter um projeto relevante 
+> Meta 2026: Escalando aplicações full stack e integrando serviços de IA
 ```
 
 ---
