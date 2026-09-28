@@ -63,7 +63,7 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 ---
 
-##  `TOOLS.dat` — Ferramentas de Combate
+##  Ferramentas de Combate
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 ---
 
-##  `PROJECTS.db` — Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
