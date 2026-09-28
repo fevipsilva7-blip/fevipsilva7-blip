@@ -94,7 +94,7 @@ App que consome a API pública do TMDB para buscar filmes em alta e por título,
 ```
 Painel administrativo responsivo com KPIs, gráficos de linha/barra/pizza, tabela de pedidos e tema claro/escuro.
 
-[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/react-dashboard)
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/react-dashboard-)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://react-dashboard2-tau.vercel.app/)
 
 ###  Field Notes
