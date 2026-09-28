@@ -106,7 +106,7 @@ Lista de tarefas com visual de caderno de campo, filtros por status e dados salv
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/todo-list)
 
-### 💼 Portfólio
+### Portfólio
 ```
 > status: concluido
 > stack: HTML + CSS + JavaScript
