@@ -22,7 +22,7 @@
 
 ---
 
-## 📡 `SYSTEM.LOG` — Sobre Mim
+## Sobre Mim
 
 <img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Coding.gif">
 
@@ -39,31 +39,31 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 ---
 
-## ⚙️ `TECH_STACK.exe` — Arsenal Tecnológico
+## Arsenal Tecnológico
 
 <div align="center">
 
-### 🧠 Linguagens
+###  Linguagens
 <img src="https://skillicons.dev/icons?i=js,python,ts&theme=dark" /><br><br>
 
 
-### 🎨 Frontend
+###  Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,html,css&theme=dark" /><br><br>
 
-### 🔧 Backend
+###  Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" /><br><br>
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" /><br><br>
 
-### ☁️ DevOps & Cloud
+###  DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=githubactions,nginx&theme=dark" /><br>
 
 </div>
 
 ---
 
-## 🛠️ `TOOLS.dat` — Ferramentas de Combate
+##  `TOOLS.dat` — Ferramentas de Combate
 
 <div align="center">
 
@@ -73,11 +73,11 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 ---
 
-## 💾 `PROJECTS.db` — Projetos em Destaque
+##  `PROJECTS.db` — Projetos em Destaque
 
 <div align="center">
 
-### 🎬 Movie Explorer
+### Movie Explorer
 ```
 > status: concluido
 > stack: React + Vite + TMDB API
@@ -87,7 +87,7 @@ App que consome a API pública do TMDB para buscar filmes em alta e por título,
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/movie-explorer)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://movie-explorer2-seven.vercel.app/)
 
-### 📊 Pulse — Dashboard
+###  Pulse — Dashboard
 ```
 > status: melhorando ele 
 > stack: React + Vite + Recharts
@@ -97,7 +97,7 @@ Painel administrativo responsivo com KPIs, gráficos de linha/barra/pizza, tabel
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/react-dashboard)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://react-dashboard2-tau.vercel.app/)
 
-### 📓 Field Notes
+###  Field Notes
 ```
 > status: concluido
 > stack: HTML + CSS + JavaScript
@@ -115,7 +115,7 @@ Site pessoal com apresentação, habilidades, projetos e contato — hospedado v
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/portfolio-site)
 
-### 🕹️ Memory Arcade
+###  Memory Arcade
 ```
 > status: concluido
 > stack: HTML + CSS + JavaScript
@@ -124,7 +124,7 @@ Jogo da memória com cronômetro, contador de jogadas e animação de virada de 
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/memory-game)
 
-### 🗂️ Sistema de Cadastro de Clientes
+###  Sistema de Cadastro de Clientes
 ```
 > status: fazendo melhorias
 > stack: Node.js + Express + SQLite
@@ -139,7 +139,7 @@ Aplicação full stack com CRUD completo, API REST e banco de dados SQLite para 
 
 ---
 
-## 🎯 `CURRENT_GOALS.sh` — Objetivos Atuais
+##  Objetivos Atuais
 
 ```bash
 felipe@dev:~$ ./check_goals.sh --status
@@ -155,7 +155,7 @@ felipe@dev:~$ ./check_goals.sh --status
 
 ---
 
-## 📊 `ANALYTICS.sys` — Estatísticas do Sistema
+##  Estatísticas do Sistema
 
 <div align="center">
 
@@ -169,7 +169,7 @@ felipe@dev:~$ ./check_goals.sh --status
 
 <div align="center">
 
-### 📈 Activity Graph
+###  Activity Graph
 
 <img src="https://github-readme-activity-graph-lyart.vercel.app/graph?username=fevipsilva7-blip&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=ff00ff&point=ffffff&area=true&area_color=00fff2" width="100%"/>
 
@@ -177,7 +177,7 @@ felipe@dev:~$ ./check_goals.sh --status
 
 ---
 
-## 🏆 `ACHIEVEMENTS.trophy` — GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -187,7 +187,7 @@ felipe@dev:~$ ./check_goals.sh --status
 
 ---
 
-## 🐍 `NEURAL_NETWORK.map` — Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -199,7 +199,7 @@ felipe@dev:~$ ./check_goals.sh --status
 
 ---
 
-## 📡 `NETWORK.connect` — Redes Sociais
+##  Redes Sociais
 
 <div align="center">
 
