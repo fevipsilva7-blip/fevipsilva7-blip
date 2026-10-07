@@ -29,7 +29,7 @@
 ```yaml
 Nome: Felipe
 localização: Brasil
-Ocupação: Desenvolvedor Front-end 
+Ocupação: Desenvolvedor Front-end (JavaScript/React)
 Idiomas: Português 
 Missão: Transformar café em código e ideias em soluções inteligentes.
 
