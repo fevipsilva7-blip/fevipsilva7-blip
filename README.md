@@ -54,6 +54,9 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 ###  Banco de Dados
 ![Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark)
 
+## Bibliotecas e serviços 
+![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge) ![TMDB API](https://img.shields.io/badge/TMDB_API-01b4e4?style=for-the-badge) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
 ###  Deploy
 ![Skills](https://skillicons.dev/icons?i=vercel&theme=dark)
 
