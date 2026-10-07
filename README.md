@@ -52,7 +52,7 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 ![Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
 
 ###  Banco de Dados
-![Skills](https://skillicons.dev/icons?i=sqlite&theme=dark)
+![Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark)
 
 ###  Deploy
 ![Skills](https://skillicons.dev/icons?i=vercel&theme=dark)
