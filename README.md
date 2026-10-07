@@ -43,33 +43,29 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 <div align="center">
 
-###  Linguagens
-<img src="https://skillicons.dev/icons?i=js,python,ts&theme=dark" /><br><br>
+## ⚙️ `TECH_STACK.exe` — Tecnologias
 
+### 🎨 Front-end
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark)
 
-###  Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,html,css&theme=dark" /><br><br>
+![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge)
+![TMDB API](https://img.shields.io/badge/TMDB_API-01b4e4?style=for-the-badge)
 
-###  Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" /><br><br>
+### 🔧 Back-end e Banco de Dados
+![Skills](https://skillicons.dev/icons?i=nodejs,express,sqlite&theme=dark)
 
-###  Banco de Dados
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark" /><br><br>
+### ☁️ Deploy
+![Skills](https://skillicons.dev/icons?i=vercel,github&theme=dark)
 
-###  DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=githubactions,nginx&theme=dark" /><br>
-
-</div>
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
-##  Ferramentas de Combate
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,&theme=dark" />
+## 🛠️ `TOOLS.dat` — Ferramentas
+![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
 
 </div>
+
 
 ---
 
