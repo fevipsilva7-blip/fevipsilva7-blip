@@ -48,16 +48,17 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 ### 🎨 Front-end
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark)
 
-![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge)
-![TMDB API](https://img.shields.io/badge/TMDB_API-01b4e4?style=for-the-badge)
+### 🔧 Back-end
+![Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
 
-### 🔧 Back-end e Banco de Dados
-![Skills](https://skillicons.dev/icons?i=nodejs,express,sqlite&theme=dark)
+### 🗄️ Banco de Dados
+![Skills](https://skillicons.dev/icons?i=sqlite&theme=dark)
 
 ### ☁️ Deploy
-![Skills](https://skillicons.dev/icons?i=vercel,github&theme=dark)
+![Skills](https://skillicons.dev/icons?i=vercel&theme=dark)
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+### 📦 Bibliotecas e serviços
+![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge) ![TMDB API](https://img.shields.io/badge/TMDB_API-01b4e4?style=for-the-badge) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
