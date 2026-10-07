@@ -43,26 +43,23 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 <div align="center">
 
-## ⚙️ `TECH_STACK.exe` — Tecnologias
+## Tecnologias
 
-### 🎨 Front-end
+###  Front-end
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark)
 
-### 🔧 Back-end
+###  Back-end
 ![Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 ![Skills](https://skillicons.dev/icons?i=sqlite&theme=dark)
 
-### ☁️ Deploy
+###  Deploy
 ![Skills](https://skillicons.dev/icons?i=vercel&theme=dark)
-
-### 📦 Bibliotecas e serviços
-![Recharts](https://img.shields.io/badge/Recharts-22b5bf?style=for-the-badge) ![TMDB API](https://img.shields.io/badge/TMDB_API-01b4e4?style=for-the-badge) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
-## 🛠️ `TOOLS.dat` — Ferramentas
+##  Ferramentas
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
 
 </div>
