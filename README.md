@@ -28,7 +28,7 @@
 
 ```yaml
 Nome: Felipe
-localização: Brasil
+Localização: Brasil
 Ocupação: Desenvolvedor Front-end (JavaScript/React)
 Idiomas: Português 
 Missão: Transformar café em código e ideias em soluções inteligentes.
@@ -85,7 +85,7 @@ App que consome a API pública do TMDB para buscar filmes em alta e por título,
 
 ###  Pulse — Dashboard
 ```
-> status: melhorando ele 
+> status: em melhorias 
 > stack: React + Vite + Recharts
 ```
 Painel administrativo responsivo com KPIs, gráficos de linha/barra/pizza, tabela de pedidos e tema claro/escuro.
@@ -146,7 +146,7 @@ felipe@dev:~$ ./check_goals.sh --status
 [  ] Explorando........... IA
 [✓] Aperfeiçoando......... CSS
 
-> Meta 2026: Escalando aplicações full stack e integrando serviços de IA
+> Meta 2027: Escalando aplicações full stack e integrando serviços de IA
 ```
 
 ---
