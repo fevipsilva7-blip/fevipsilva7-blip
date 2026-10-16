@@ -173,13 +173,6 @@ felipe@dev:~$ ./check_goals.sh --status
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-snowy-seven.vercel.app/?username=fevipsilva7-blip&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
-
-</div>
 
 ---
 
