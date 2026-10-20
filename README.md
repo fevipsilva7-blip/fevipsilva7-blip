@@ -7,7 +7,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=700&height=50&lines=Construindo+interfaces+com+React+e+JavaScript;Estudando+TypeScript+e+Node.js;Aberto+a+novas+oportunidades+%F0%9F%9A%80;System+Status%3A+ONLINE"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=700&height=50&lines=Construindo+interfaces+com+React+e+JavaScript;Estudando+TypeScript+e+Node.js;Aberto+a+novas+oportunidades;System+Status%3A+ONLINE"
   alt="Frases animadas sobre Felipe"
 />
 
