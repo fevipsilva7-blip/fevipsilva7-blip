@@ -75,7 +75,7 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 ### Movie Explorer
 ```
-> status: concluido
+> status: concluído
 > stack: React + Vite + TMDB API
 ```
 App que consome a API pública do TMDB para buscar filmes em alta e por título, com sinopse, gêneros, duração e nota.
@@ -95,7 +95,7 @@ Painel administrativo responsivo com KPIs, gráficos de linha/barra/pizza, tabel
 
 ###  Field Notes
 ```
-> status: concluido
+> status: concluído
 > stack: HTML + CSS + JavaScript
 ```
 Lista de tarefas com visual de caderno de campo, filtros por status e dados salvos automaticamente no navegador.
@@ -106,7 +106,7 @@ Lista de tarefas com visual de caderno de campo, filtros por status e dados salv
 
 ### Portfólio
 ```
-> status: concluido
+> status: concluído
 > stack: HTML + CSS + JavaScript
 ```
 Site pessoal com apresentação, habilidades, projetos e contato — hospedado via GitHub Pages.
@@ -117,7 +117,7 @@ Site pessoal com apresentação, habilidades, projetos e contato — hospedado v
 
 ###  Memory Arcade
 ```
-> status: concluido
+> status: concluído
 > stack: HTML + CSS + JavaScript
 ```
 Jogo da memória com cronômetro, contador de jogadas e animação de virada de carta em 3D.
