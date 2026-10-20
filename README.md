@@ -7,7 +7,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=700&height=50&lines=Construindo+interfaces+com+React+e+JavaScript;Estudando+TypeScript+e+Node.js;Aberto+a+novas+oportunidades;System+Status%3A+ONLINE"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=700&height=50&lines=Construindo+interfaces+com+React+e+JavaScript;Estudando+TypeScript+e+Python;Aberto+a+novas+oportunidades;System+Status%3A+ONLINE"
   alt="Frases animadas sobre Felipe"
 />
 
@@ -15,25 +15,24 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fevipsilva7-blip&color=00fff2&style=for-the-badge&label=NEURAL+SCANS)
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:007BFF,100:00FFF2&height=2&section=header" width="100%" alt="" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 </div>
-
----
 
 ## Sobre Mim
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Coding.gif">
+<img align="right" alt="Animação de código" width="380" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Coding.gif">
+
+Sou desenvolvedor front-end e gosto de transformar ideias em interfaces claras, responsivas e agradáveis de usar. Construo projetos com **JavaScript e React**, também já fiz aplicações full stack com **Node.js, Express e SQLite**, e estou aprofundando **TypeScript** e **acessibilidade**.
+
+Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com times que valorizam código limpo e boa experiência de uso.
 
 ```yaml
-Nome: Felipe
+Nome: Felipe Rodrigues
 Localização: Brasil
 Ocupação: Desenvolvedor Front-end (JavaScript/React)
-Idiomas: Português 
+Foco atual: TypeScript, Python e acessibilidade
 Missão: Transformar café em código e ideias em soluções inteligentes.
-
 ```
 
 <br clear="right"/>
@@ -44,29 +43,25 @@ Missão: Transformar café em código e ideias em soluções inteligentes.
 
 <div align="center">
 
-## Tecnologias
+### Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML, CSS, JavaScript, React e Vite" />
 
-###  Front-end
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark)
+### Back-end
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js e Express" />
 
-###  Back-end
-![Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)
+### Banco de Dados
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark" alt="SQLite, MySQL e PostgreSQL" />
 
-###  Banco de Dados
-![Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark)
+### Em estudo
+<img src="https://skillicons.dev/icons?i=ts,python&theme=dark" alt="TypeScript e Python" />
 
+### Deploy
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
 
-
-###  Deploy
-![Skills](https://skillicons.dev/icons?i=vercel&theme=dark)
-
----
-
-##  Ferramentas
-![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code" />
 
 </div>
-
 
 ---
 
@@ -84,9 +79,9 @@ App que consome a API pública do TMDB para buscar filmes em alta e por título,
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/movie-explorer)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://movie-explorer2-seven.vercel.app/)
 
-###  Pulse — Dashboard
+### Pulse — Dashboard
 ```
-> status: em melhorias 
+> status: em melhorias
 > stack: React + Vite + Recharts
 ```
 Painel administrativo responsivo com KPIs, gráficos de linha/barra/pizza, tabela de pedidos e tema claro/escuro.
@@ -94,7 +89,7 @@ Painel administrativo responsivo com KPIs, gráficos de linha/barra/pizza, tabel
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/react-dashboard-)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://react-dashboard2-tau.vercel.app/)
 
-###  Field Notes
+### Field Notes
 ```
 > status: concluído
 > stack: HTML + CSS + JavaScript
@@ -104,19 +99,17 @@ Lista de tarefas com visual de caderno de campo, filtros por status e dados salv
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/todo-list)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://todo-list-nu-lovat-56.vercel.app/)
 
-
 ### Portfólio
 ```
 > status: concluído
 > stack: HTML + CSS + JavaScript
 ```
-Site pessoal com apresentação, habilidades, projetos e contato — hospedado via GitHub Pages.
+Site pessoal com apresentação, habilidades, projetos e contato.
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/portfolio-site)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-five-jet-79.vercel.app/)
 
-
-###  Memory Arcade
+### Memory Arcade
 ```
 > status: concluído
 > stack: HTML + CSS + JavaScript
@@ -126,29 +119,26 @@ Jogo da memória com cronômetro, contador de jogadas e animação de virada de 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/memory-game)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://memory-game-two-ivory.vercel.app/)
 
-###  Sistema de Cadastro de Clientes
+### Sistema de Cadastro de Clientes
 ```
-> status: fazendo melhorias
+> status: em melhorias
 > stack: Node.js + Express + SQLite
 ```
 Aplicação full stack com CRUD completo, API REST e banco de dados SQLite para gerenciamento de clientes.
 
-[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/gest-o-clientes)
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/customer-manager)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=render&logoColor=white)](https://customer-manager-4hiv.onrender.com/)
-
 
 </div>
 
-
-
 ---
 
-##  Objetivos Atuais
+## Objetivos Atuais
 
 ```bash
 felipe@dev:~$ ./check_goals.sh --status
 
-[✓] Banco de Dados........ PostgreSQL + API com TypeScript
+[✓] Banco de Dados........ PostgreSQL + API REST
 [~] Estudando............. Python
 [~] Aprofundando.......... React e TypeScript
 [~] Aperfeiçoando......... CSS e acessibilidade
@@ -159,50 +149,28 @@ felipe@dev:~$ ./check_goals.sh --status
 
 ---
 
-##  Estatísticas do Sistema
+## Estatísticas do Sistema
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fevipsilva7-blip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=ff00ff&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fevipsilva7-blip&theme=tokyonight&hide_border=true&background=0d1117&stroke=00fff2&ring=ff00ff&fire=00fff2&currStreakLabel=00fff2" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fevipsilva7-blip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=ff00ff&text_color=c9d1d9&count_private=true" width="49%" alt="Estatísticas do GitHub de Felipe"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fevipsilva7-blip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8" width="49%" alt="Linguagens mais usadas"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fevipsilva7-blip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c9d1d9&langs_count=8" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fevipsilva7-blip&theme=tokyonight&utcOffset=-3" width="49%"/>
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-###  Activity Graph
-
-<img src="https://github-readme-activity-graph-lyart.vercel.app/graph?username=fevipsilva7-blip&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=ff00ff&point=ffffff&area=true&area_color=00fff2" width="100%"/>
+<img src="https://raw.githubusercontent.com/fevipsilva7-blip/fevipsilva7-blip/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Gráfico de contribuições animado"/>
 
 </div>
 
 ---
 
-
----
-
-##  Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/fevipsilva7-blip/fevipsilva7-blip/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-
-
-</div>
-
----
-
-##  Redes Sociais
+## Redes Sociais
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa)
 [![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fepls_xzx/)
-[![Gmail](https://img.shields.io/badge/Email-00fff2?style=for-the-badge&logo=gmail&logoColor=black)](https://mail.google.com/mail/?view=cm&fs=1&to=fevipsilva7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-00fff2?style=for-the-badge&logo=gmail&logoColor=black)](mailto:fevipsilva7@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-five-jet-79.vercel.app/)
 
@@ -212,14 +180,8 @@ felipe@dev:~$ ./check_goals.sh --status
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+"Código bem escrito é poesia que máquinas entendem."
 
-
- "Código bem escrito é poesia que máquinas entendem." 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2B8,100:007BFF&height=120&section=footer" width="100%" alt="" />
 
 </div>
