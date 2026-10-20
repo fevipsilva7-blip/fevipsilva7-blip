@@ -12,7 +12,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fevipsilva7-blip&color=00fff2&style=for-the-badge&label=NEURAL+SCANS)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0f0c29)
-![License](https://img.shields.io/badge/LICENSE-MIT-ff00ff?style=for-the-badge&labelColor=0f0c29)
 
 </div>
 
