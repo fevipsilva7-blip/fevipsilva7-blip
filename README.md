@@ -147,13 +147,13 @@ Aplicação full stack com CRUD completo, API REST e banco de dados SQLite para 
 ```bash
 felipe@dev:~$ ./check_goals.sh --status
 
-[✓] Aprendendo........... Banco de Dados 
-[✓] Estudando............ Python
-[  ] Construindo.......... Um projeto relevante 
-[  ] Explorando........... IA
-[✓] Aperfeiçoando......... CSS
+[✓] Banco de Dados........ PostgreSQL + API com TypeScript
+[~] Estudando............. Python
+[~] Aprofundando.......... React e TypeScript
+[~] Aperfeiçoando......... CSS e acessibilidade
+[ ] Explorando............ IA aplicada a apps web
 
-> Meta 2027: Escalando aplicações full stack e integrando serviços de IA
+> Meta 2027: escalando aplicações full stack e integrando serviços de IA
 ```
 
 ---
