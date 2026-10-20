@@ -2,12 +2,13 @@
 
 <!-- BANNER PRINCIPAL COM EFEITO DE INICIALIZAÇÃO -->
 
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Felipe;Desenvolvedor+Front-end+%7C+JavaScript+%7C+React;Construindo+o+Futuro%2C+Uma+Linha+de+C%C3%B3digo+por+Vez;System+Status%3A+ONLINE"
-    alt="Olá, eu sou o Felipe — Desenvolvedor Front-end"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Felipe;Desenvolvedor+Front-end+%7C+JavaScript+%7C+React;Construindo+o+Futuro%2C+Uma+Linha+de+C%C3%B3digo+por+Vez;System+Status%3A+ONLINE" alt="Typing SVG"/>
 </p>
+
+
+ 
 
 
 <!-- TYPING ANIMATION -->
