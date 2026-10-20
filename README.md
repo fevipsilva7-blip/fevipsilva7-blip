@@ -101,6 +101,8 @@ Painel administrativo responsivo com KPIs, gráficos de linha/barra/pizza, tabel
 Lista de tarefas com visual de caderno de campo, filtros por status e dados salvos automaticamente no navegador.
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/todo-list)
+[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://todo-list-nu-lovat-56.vercel.app/)
+
 
 ### Portfólio
 ```
@@ -110,6 +112,8 @@ Lista de tarefas com visual de caderno de campo, filtros por status e dados salv
 Site pessoal com apresentação, habilidades, projetos e contato — hospedado via GitHub Pages.
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/portfolio-site)
+[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-five-jet-79.vercel.app/)
+
 
 ###  Memory Arcade
 ```
@@ -119,6 +123,7 @@ Site pessoal com apresentação, habilidades, projetos e contato — hospedado v
 Jogo da memória com cronômetro, contador de jogadas e animação de virada de carta em 3D.
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/memory-game)
+[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://memory-game-two-ivory.vercel.app/)
 
 ###  Sistema de Cadastro de Clientes
 ```
@@ -128,6 +133,8 @@ Jogo da memória com cronômetro, contador de jogadas e animação de virada de 
 Aplicação full stack com CRUD completo, API REST e banco de dados SQLite para gerenciamento de clientes.
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/gest-o-clientes)
+[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=render&logoColor=white)](https://customer-manager-4hiv.onrender.com/)
+
 
 </div>
 
