@@ -1,28 +1,21 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL COM EFEITO DE INICIALIZAÇÃO -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C2B8&height=200&section=header&text=Felipe%20Rodrigues&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Front-end%20%7C%20JavaScript%20%7C%20React&descSize=20&descAlignY=58"
+  width="100%"
+  alt="Felipe Rodrigues — Desenvolvedor Front-end"
+/>
 
-<!-- BANNER AZUL -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00FFF2&height=180&section=header&text=SYSTEM%20INITIALIZED&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-    width="100%"
-    alt="System Initialized"
-  />
-</p>
-
-<!-- TITULO ANIMADO -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=900&height=120&lines=Ol%C3%A1%2C+eu+sou+o+Felipe;Desenvolvedor+Front-end+%7C+JavaScript+%7C+React;Construindo+o+Futuro%2C+Uma+Linha+de+C%C3%B3digo+por+Vez;System+Status%3A+ONLINE"
-    alt="Olá, eu sou o Felipe — Desenvolvedor Front-end"
-  />
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=700&height=50&lines=Construindo+interfaces+com+React+e+JavaScript;Estudando+TypeScript+e+Node.js;Aberto+a+novas+oportunidades+%F0%9F%9A%80;System+Status%3A+ONLINE"
+  alt="Frases animadas sobre Felipe"
+/>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fevipsilva7-blip&color=00fff2&style=for-the-badge&label=NEURAL+SCANS)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0f0c29)
+
+</div>
 
 
 </div>
