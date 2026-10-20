@@ -201,9 +201,7 @@ felipe@dev:~$ ./check_goals.sh --status
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa)
 [![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fepls_xzx/)
-[![Gmail]<a href="mailto:fevipsilva7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00fff2?style=for-the-badge&logo=gmail&logoColor=black" alt="Enviar e-mail"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Email-00fff2?style=for-the-badge&logo=gmail&logoColor=black)](https://mail.google.com/mail/?view=cm&fs=1&to=fevipsilva7@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-five-jet-79.vercel.app/)
 
