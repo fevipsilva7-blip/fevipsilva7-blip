@@ -1,7 +1,14 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL COM EFEITO DE INICIALIZAÇÃO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=SYSTEM%20INITIALIZED&fontSize=45&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Felipe%20neural%20network&descAlignY=55&descAlign=50" width="100%"/>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Felipe;Desenvolvedor+Front-end+%7C+JavaScript+%7C+React;Construindo+o+Futuro%2C+Uma+Linha+de+C%C3%B3digo+por+Vez;System+Status%3A+ONLINE"
+    alt="Olá, eu sou o Felipe — Desenvolvedor Front-end"
+  />
+</p>
+
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
