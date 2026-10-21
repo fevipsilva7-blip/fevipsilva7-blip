@@ -15,6 +15,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fevipsilva7-blip&color=00fff2&style=for-the-badge&label=NEURAL+SCANS)
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa)
+[![Email](https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fevipsilva7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00fff2?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-site-five-jet-79.vercel.app/)
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007BFF,100:00FFF2&height=2&section=header" width="100%" alt="" />
 
 </div>
@@ -159,20 +165,6 @@ felipe@dev:~$ ./check_goals.sh --status
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/fevipsilva7-blip/fevipsilva7-blip/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Gráfico de contribuições animado"/>
-
-</div>
-
----
-
-## Redes Sociais
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa)
-[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fepls_xzx/)
-[![Email](https://img.shields.io/badge/Email-00fff2?style=for-the-badge&logo=gmail&logoColor=black)](mailto:fevipsilva7@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff00ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-five-jet-79.vercel.app/)
 
 </div>
 
