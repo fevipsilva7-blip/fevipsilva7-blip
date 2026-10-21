@@ -19,7 +19,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa)
 [![Email](https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=fevipsilva7@gmail.com)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-00fff2?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-site-five-jet-79.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:007BFF,100:00FFF2&height=2&section=header" width="100%" alt="" />
