@@ -37,6 +37,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 Nome: Felipe Rodrigues
 Localização: Brasil
 Ocupação: Desenvolvedor Front-end (JavaScript/React)
+Formação: Ciências da Computação — Unicid (2026–2029)
 Foco atual: TypeScript, Python e acessibilidade
 Missão: Transformar café em código e ideias em soluções inteligentes.
 ```
@@ -134,6 +135,15 @@ Aplicação full stack com CRUD completo, API REST e banco de dados SQLite para 
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/customer-manager)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=render&logoColor=white)](https://customer-manager-4hiv.onrender.com/)
+
+### Bookshelf API
+```
+> status: em desenvolvimento
+> stack: TypeScript + Express + PostgreSQL + Docker
+```
+API REST de estante de livros com CRUD, estatísticas de leitura, validação de dados e busca de livros na Open Library.
+
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/bookshelf-api)
 
 </div>
 
