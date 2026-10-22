@@ -13,7 +13,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fevipsilva7-blip&color=00fff2&style=for-the-badge&label=NEURAL+SCANS)
+
 
 <br/>
 
