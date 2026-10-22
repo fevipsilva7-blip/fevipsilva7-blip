@@ -14,9 +14,6 @@
 <br/>
 
 
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00fff2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa)
 [![Email](https://img.shields.io/badge/Email-ff00ff?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=fevipsilva7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00fff2?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-site-five-jet-79.vercel.app/)
@@ -115,6 +112,16 @@ API REST de estante de livros com CRUD, estatísticas de leitura, validação de
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/bookshelf-api)
 
+### Portfólio
+```
+> status: concluído
+> stack: HTML + CSS + JavaScript
+```
+Site pessoal com apresentação, habilidades, projetos e contato.
+
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/portfolio-site)
+[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-five-jet-79.vercel.app/)
+
 <br/>
 </div>
 
@@ -134,15 +141,6 @@ Lista de tarefas com visual de caderno de campo, filtros por status e dados salv
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/todo-list)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://todo-list-nu-lovat-56.vercel.app/)
 
-### Portfólio
-```
-> status: concluído
-> stack: HTML + CSS + JavaScript
-```
-Site pessoal com apresentação, habilidades, projetos e contato.
-
-[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/portfolio-site)
-[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-five-jet-79.vercel.app/)
 
 ### Memory Arcade
 ```
@@ -153,11 +151,6 @@ Jogo da memória com cronômetro, contador de jogadas e animação de virada de 
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/memory-game)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://memory-game-two-ivory.vercel.app/)
-
-</div>
-
-
-
 
 </div>
 
