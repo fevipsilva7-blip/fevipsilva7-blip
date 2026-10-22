@@ -37,7 +37,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 Nome: Felipe Rodrigues
 Localização: Brasil
 Ocupação: Desenvolvedor Front-end (JavaScript/React)
-Formação: Ciências da Computação — Unicid (2026–2029)
+Formação: Cursando Ciências da Computação — Unicid (2026–2029)
 Foco atual: TypeScript, Python e acessibilidade
 Missão: Transformar café em código e ideias em soluções inteligentes.
 ```
