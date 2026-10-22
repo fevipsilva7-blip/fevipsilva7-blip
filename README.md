@@ -13,6 +13,7 @@
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=fevipsilva7-blip&color=00fff2&style=for-the-badge&label=NEURAL+SCANS)
 
 <br/>
 
@@ -36,7 +37,7 @@ Estou em busca de oportunidades para crescer como desenvolvedor e contribuir com
 Nome: Felipe Rodrigues
 Localização: Brasil
 Ocupação: Desenvolvedor Front-end (JavaScript/React)
-Formação: Cursando Ciências da Computação — Unicid (2026–2029)
+Formação: Ciências da Computação — Unicid (2026–2029)
 Foco atual: TypeScript, Python e acessibilidade
 Missão: Transformar café em código e ideias em soluções inteligentes.
 ```
@@ -95,36 +96,6 @@ Painel administrativo responsivo com KPIs, gráficos de linha/barra/pizza, tabel
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/react-dashboard-)
 [![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://react-dashboard2-tau.vercel.app/)
 
-### Field Notes
-```
-> status: concluído
-> stack: HTML + CSS + JavaScript
-```
-Lista de tarefas com visual de caderno de campo, filtros por status e dados salvos automaticamente no navegador.
-
-[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/todo-list)
-[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://todo-list-nu-lovat-56.vercel.app/)
-
-### Portfólio
-```
-> status: concluído
-> stack: HTML + CSS + JavaScript
-```
-Site pessoal com apresentação, habilidades, projetos e contato.
-
-[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/portfolio-site)
-[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-five-jet-79.vercel.app/)
-
-### Memory Arcade
-```
-> status: concluído
-> stack: HTML + CSS + JavaScript
-```
-Jogo da memória com cronômetro, contador de jogadas e animação de virada de carta em 3D.
-
-[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/memory-game)
-[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://memory-game-two-ivory.vercel.app/)
-
 ### Sistema de Cadastro de Clientes
 ```
 > status: em melhorias
@@ -143,6 +114,12 @@ Aplicação full stack com CRUD completo, API REST e banco de dados SQLite para 
 API REST de estante de livros com CRUD, estatísticas de leitura, validação de dados e busca de livros na Open Library.
 
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/bookshelf-api)
+
+<br/>
+
+### Outros projetos
+
+**Field Notes** (HTML + CSS + JS) — [Repo](https://github.com/fevipsilva7-blip/todo-list) · [Demo](https://todo-list-nu-lovat-56.vercel.app/) &nbsp;|&nbsp; **Portfólio** (HTML + CSS + JS) — [Repo](https://github.com/fevipsilva7-blip/portfolio-site) · [Demo](https://portfolio-site-five-jet-79.vercel.app/) &nbsp;|&nbsp; **Memory Arcade** (HTML + CSS + JS) — [Repo](https://github.com/fevipsilva7-blip/memory-game) · [Demo](https://memory-game-two-ivory.vercel.app/)
 
 </div>
 
