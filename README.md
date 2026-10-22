@@ -118,8 +118,13 @@ API REST de estante de livros com CRUD, estatísticas de leitura, validação de
 <br/>
 
 ### Outros projetos
+### Outros projetos
 
-**Field Notes** (HTML + CSS + JS) — [Repo](https://github.com/fevipsilva7-blip/todo-list) · [Demo](https://todo-list-nu-lovat-56.vercel.app/) &nbsp;|&nbsp; **Portfólio** (HTML + CSS + JS) — [Repo](https://github.com/fevipsilva7-blip/portfolio-site) · [Demo](https://portfolio-site-five-jet-79.vercel.app/) &nbsp;|&nbsp; **Memory Arcade** (HTML + CSS + JS) — [Repo](https://github.com/fevipsilva7-blip/memory-game) · [Demo](https://memory-game-two-ivory.vercel.app/)
+Feitos com HTML, CSS e JavaScript puro
+
+**Field&nbsp;Notes**&nbsp;—&nbsp;[Repo](https://github.com/fevipsilva7-blip/todo-list)&nbsp;·&nbsp;[Demo](https://todo-list-nu-lovat-56.vercel.app/) &nbsp;|&nbsp; **Portfólio**&nbsp;—&nbsp;[Repo](https://github.com/fevipsilva7-blip/portfolio-site)&nbsp;·&nbsp;[Demo](https://portfolio-site-five-jet-79.vercel.app/) &nbsp;|&nbsp; **Memory&nbsp;Arcade**&nbsp;—&nbsp;[Repo](https://github.com/fevipsilva7-blip/memory-game)&nbsp;·&nbsp;[Demo](https://memory-game-two-ivory.vercel.app/)
+
+
 
 </div>
 
