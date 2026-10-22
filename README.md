@@ -116,13 +116,46 @@ API REST de estante de livros com CRUD, estatísticas de leitura, validação de
 [![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/bookshelf-api)
 
 <br/>
+</div>
 
-### Outros projetos
-### Outros projetos
+---
 
-Feitos com HTML, CSS e JavaScript puro
+## Outros Projetos
 
-**Field&nbsp;Notes**&nbsp;—&nbsp;[Repo](https://github.com/fevipsilva7-blip/todo-list)&nbsp;·&nbsp;[Demo](https://todo-list-nu-lovat-56.vercel.app/) &nbsp;|&nbsp; **Portfólio**&nbsp;—&nbsp;[Repo](https://github.com/fevipsilva7-blip/portfolio-site)&nbsp;·&nbsp;[Demo](https://portfolio-site-five-jet-79.vercel.app/) &nbsp;|&nbsp; **Memory&nbsp;Arcade**&nbsp;—&nbsp;[Repo](https://github.com/fevipsilva7-blip/memory-game)&nbsp;·&nbsp;[Demo](https://memory-game-two-ivory.vercel.app/)
+<div align="center">
+
+### Field Notes
+```
+> status: concluído
+> stack: HTML + CSS + JavaScript
+```
+Lista de tarefas com visual de caderno de campo, filtros por status e dados salvos automaticamente no navegador.
+
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/todo-list)
+[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://todo-list-nu-lovat-56.vercel.app/)
+
+### Portfólio
+```
+> status: concluído
+> stack: HTML + CSS + JavaScript
+```
+Site pessoal com apresentação, habilidades, projetos e contato.
+
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/portfolio-site)
+[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-five-jet-79.vercel.app/)
+
+### Memory Arcade
+```
+> status: concluído
+> stack: HTML + CSS + JavaScript
+```
+Jogo da memória com cronômetro, contador de jogadas e animação de virada de carta em 3D.
+
+[![Repo](https://img.shields.io/badge/REPO-00fff2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/fevipsilva7-blip/memory-game)
+[![Demo](https://img.shields.io/badge/DEMO-ff00c8?style=for-the-badge&logo=vercel&logoColor=white)](https://memory-game-two-ivory.vercel.app/)
+
+</div>
+
 
 
 
