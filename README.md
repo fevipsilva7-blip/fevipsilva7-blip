@@ -9,7 +9,7 @@
 **Transformo ideias em interfaces rápidas, acessíveis e fáceis de usar.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fevipsilva7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=fevipsilva7@gmail.com&su=Contato%20via%20GitHub)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-site-five-jet-79.vercel.app/)
 
 </div>
@@ -93,7 +93,7 @@ Cursando **Ciências da Computação (Unicid, 2026–2029)** e construindo proje
 
 <div align="center">
 
- **Vamos conversar?** [LinkedIn](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa) · [Email](mailto:fevipsilva7@gmail.com)
+ **Vamos conversar?** [LinkedIn](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=fevipsilva7@gmail.com&su=Contato%20via%20GitHub).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2B8,100:007BFF&height=100&section=footer" width="100%" alt="" />
 
