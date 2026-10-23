@@ -16,13 +16,13 @@
 
 ---
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Sou desenvolvedor **front-end** com foco em **React e JavaScript**. Também já entreguei aplicações **full stack** (Node.js, Express, SQLite/PostgreSQL) e hoje aprofundo **TypeScript** e **acessibilidade**.
 
 Cursando **Ciências da Computação (Unicid, 2026–2029)** e construindo projetos reais com demo no ar, API REST, gráficos e consumo de APIs externas.
 
-### 🟢 Aberto a oportunidades
+###  Aberto a oportunidades
 | | |
 |---|---|
 | **Busco** | Vaga júnior/estágio em front-end ou full stack (React/TypeScript) · projetos freelance |
@@ -31,7 +31,7 @@ Cursando **Ciências da Computação (Unicid, 2026–2029)** e construindo proje
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,7 +50,7 @@ Cursando **Ciências da Computação (Unicid, 2026–2029)** e construindo proje
 
 ---
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 | Projeto | O que entrega | Stack | Links |
 |---|---|---|---|
@@ -70,7 +70,7 @@ Cursando **Ciências da Computação (Unicid, 2026–2029)** e construindo proje
 
 ---
 
-## 📈 Estatísticas
+##  Estatísticas
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Cursando **Ciências da Computação (Unicid, 2026–2029)** e construindo proje
 
 ---
 
-## 🎯 Foco atual
+##  Foco atual
 
 - [x] API REST com PostgreSQL e Docker
 - [ ] Aprofundar **React + TypeScript** (tipagem de componentes, hooks e testes)
@@ -93,7 +93,7 @@ Cursando **Ciências da Computação (Unicid, 2026–2029)** e construindo proje
 
 <div align="center">
 
-📫 **Vamos conversar?** [LinkedIn](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa) · [Email](mailto:fevipsilva7@gmail.com)
+ **Vamos conversar?** [LinkedIn](https://www.linkedin.com/in/felipe-rodrigues-da-silvaa) · [Email](mailto:fevipsilva7@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2B8,100:007BFF&height=100&section=footer" width="100%" alt="" />
 
