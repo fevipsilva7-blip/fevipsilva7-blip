@@ -56,7 +56,6 @@ Cursando **Ciências da Computação (Unicid, 2026–2029)** e construindo proje
 |---|---|---|---|
 | **🎬 Movie Explorer** | Busca de filmes em alta e por título, com sinopse, gêneros, duração e nota (API do TMDB) | React · Vite · TMDB API | [Demo](https://movie-explorer2-seven.vercel.app/) · [Código](https://github.com/fevipsilva7-blip/movie-explorer) |
 | **📊 Pulse Dashboard** | Painel responsivo com KPIs, gráficos de linha/barra/pizza, tabela de pedidos e tema claro/escuro | React · Vite · Recharts | [Demo](https://react-dashboard2-tau.vercel.app/) · [Código](https://github.com/fevipsilva7-blip/react-dashboard-) |
-| **📚 Bookshelf API** | API REST de estante de livros com CRUD, estatísticas de leitura, validação e busca na Open Library | TypeScript · Express · PostgreSQL · Docker | [Código](https://github.com/fevipsilva7-blip/bookshelf-api) |
 | **👥 Customer-Manager** | Full stack com CRUD completo, API REST e banco relacional | Node.js · Express · SQLite | [Demo](https://customer-manager-4hiv.onrender.com/) · [Código](https://github.com/fevipsilva7-blip/customer-manager) |
 | **🧑‍💻 Portfólio** | Site pessoal com habilidades, projetos e contato | HTML · CSS · JavaScript | [Site](https://portfolio-site-five-jet-79.vercel.app/) · [Código](https://github.com/fevipsilva7-blip/portfolio-site) |
 
